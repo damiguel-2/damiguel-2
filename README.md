@@ -30,7 +30,7 @@ También estamos estudiando:
 - Diagramas entidad relación
 - Bucles
 
-[Web del colegio] (https://www.sanviatorvalladolid.com)
+[Web del colegio](https://www.sanviatorvalladolid.com)
 
 
 
