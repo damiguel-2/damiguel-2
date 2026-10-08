@@ -15,6 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Miguel
+## Docente de bases de datos
+
+Soy profesor del colegio San Viator.
+
+Estamos aprendiendo:
+1. Bases de datos
+2. Programación
+3. Entornos de desarrollo
+
+También estamos estudiando:
+- Markdown
+- Diagramas entidad relación
+- Bucles
+
+[Web del colegio] (https://www.sanviatorvalladolid.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
 Sintaxis de markdown
 
 # Título de primer nivel
