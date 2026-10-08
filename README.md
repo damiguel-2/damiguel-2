@@ -38,8 +38,10 @@ Instrucciones para crear un fichero:
 2. Ejecuta el comando `touch <fichero>`
 
 Separadores
+
 ---
 Otra sección
+
 ---
 Tercera sección
 
